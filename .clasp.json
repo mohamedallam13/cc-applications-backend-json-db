@@ -1,0 +1,17 @@
+{
+    "scriptId": "1skfUz8kr7jDNI25KAFDEoIFtfwkcBS1Ue2wHsg4FRQuNtUtqKfcCAz-9",
+    "filePushOrder": [
+        "JSON-DB/JSON-DBHandler.js",
+        "ODM/JSON-ODM.js",
+        "ODM/JSON-ODM-Instantiating.js",
+        "Models/Applications.js",
+        "Models/CCONE.js",
+        "Models/Applications.js",
+        "Controller/Controller.js",
+        "Routes/Routes.js",
+        "Server.js",
+        "Testing.js",
+        "Seeding/Data-Refit.js",
+        "Seeding/Seeding.js"
+    ]
+}
